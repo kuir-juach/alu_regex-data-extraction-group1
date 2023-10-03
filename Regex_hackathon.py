@@ -1,6 +1,6 @@
 import re
 
-# Defining Regular expression 
+# Defining Regular expression (NB we used the re module first to fetch raw API data)
 restaurant_pattern = r'([^-]+) - ([^,]+)'
 ingredient_pattern = r'([^,]+)'
 rgb_color_pattern = r'rgb\((\d+), (\d+), (\d+)\)'
