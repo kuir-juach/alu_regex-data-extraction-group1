@@ -42,3 +42,5 @@ print("Product Codes:", product_codes)
 print("News Headlines:", news_headlines)
 print("Event Date and Time:", event_datetime)
 print("Email Addresses:", email_addresses)
+
+# Done by Group1
