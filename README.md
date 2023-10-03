@@ -1,1 +1,1 @@
-This a readme file for our Haackton 
+This a readme file for our Hackton 
