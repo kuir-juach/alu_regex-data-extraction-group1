@@ -33,7 +33,7 @@ news_headlines = re.findall(news_headline_pattern, api_response)
 event_datetime = re.findall(event_datetime_pattern, api_response)
 email_addresses = re.findall(email_pattern, api_response)
 
-# Print the Extracted Data
+# Print Extracted Data
 print("Restaurants:", restaurants)
 print("Ingredients:", ingredients)
 print("RGB Colors:", rgb_colors)
